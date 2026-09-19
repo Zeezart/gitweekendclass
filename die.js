@@ -40,3 +40,6 @@ document.getElementById("show").addEventListener("click",function(){
 document.getElementById("hide").addEventListener("click",function(){
     document.getElementById("box").style.display = "none"
 })
+
+
+//ADDING A BLA BLA BLA TO JS FILE
