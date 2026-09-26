@@ -44,5 +44,3 @@ document.getElementById("hide").addEventListener("click",function(){
 //Added on Sept 26, 2026
 
 // developers need to pull this
-
-//local change
