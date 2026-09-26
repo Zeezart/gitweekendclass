@@ -40,3 +40,5 @@ document.getElementById("show").addEventListener("click",function(){
 document.getElementById("hide").addEventListener("click",function(){
     document.getElementById("box").style.display = "none"
 })
+
+//Added on Sept 26, 2026
